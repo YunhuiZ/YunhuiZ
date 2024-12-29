@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **C,.Net and Mobile Development**
 
-- 📫 How to reach me **yunhuizhang515@gmail.com**
+- 📫 Reach me **yunhuizhang515@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yunhuizhang/](https://www.linkedin.com/in/yunhuizhang/)
 
-- ⚡ Fun fact **I tend to be creative**
+- ⚡ Fun fact: **I become productive in software development since I bought 32 GB RAM Macbook and 4k/32 inches monitor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
