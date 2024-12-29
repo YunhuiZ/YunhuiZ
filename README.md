@@ -3,15 +3,15 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunhuiz&label=Profile%20views&color=0e75b6&style=flat" alt="yunhuiz" /> </p>
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently developing **.Net app and Mobile App**
 
-- 💬 Ask me about **C,Android and .Net**
+- 💬 Ask me about **C,.Net and Mobile Development**
 
 - 📫 How to reach me **yunhuizhang515@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yunhuizhang/](https://www.linkedin.com/in/yunhuizhang/)
 
-- ⚡ Fun fact **I like to validate things**
+- ⚡ Fun fact **I tend to be creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
