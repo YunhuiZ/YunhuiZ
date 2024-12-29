@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yunhuizhang/](https://www.linkedin.com/in/yunhuizhang/)
 
-- ⚡ Fun fact: **I become productive in software development since I bought 32 GB RAM Macbook and 4k/32 inches monitor**
+- ⚡ Fun fact: **I found I have graphic memory**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
