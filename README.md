@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yunhuizhang/](https://www.linkedin.com/in/yunhuizhang/)
 
-- ⚡ Fun fact: **I just found BOSE QC was my best soulmate**
+- ⚡ Fun fact: **I cannot live without BOSE QC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
