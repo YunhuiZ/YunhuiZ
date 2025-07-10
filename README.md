@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yunhuizhang/](https://www.linkedin.com/in/yunhuizhang/)
 
-- ⚡ Fun fact: **I found I have graphic memory**
+- ⚡ Fun fact: **I just found BOSE QC was my best soulmate **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
